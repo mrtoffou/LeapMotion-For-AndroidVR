@@ -4,6 +4,7 @@ A Unity3d application made for Android VR (cardboard specifically) and Leap Moti
 
 ### Why
 As of 3/24/2017 there is no native solution for android vr and leap motion compatibility so as a work around visit https://github.com/levrn/gear-vr-leap-unity for this. The only disadvantage is having the leap motion usb tethered a computer.
+According to the discussion at https://community.leapmotion.com/t/vr-leap-on-cardboard-mobile-with-latest-v2-sdk/2625 leap motion already has an android leap motion sdk but you'll need to gain permission.
 
 ### Demonstration
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mollis dictum ante, quis ornare metus luctus non. Mauris ultricies libero at nibh vulputate pulvinar eu mattis leo. Proin aliquam elit cursus orci semper dignissim. Integer ut sodales lacus, sit amet ultrices augue. Pellentesque dictum faucibus ligula, a tristique magna venenatis a. Phasellus posuere est mattis dapibus porttitor. Fusce imperdiet lorem neque, venenatis lacinia dui scelerisque sed. Praesent posuere vestibulum vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi sem ex, rhoncus at tincidunt a, euismod nec mi. Proin blandit dui ipsum, quis pharetra mi vulputate eget. Donec a sapien rutrum, sagittis metus nec, congue ex.
